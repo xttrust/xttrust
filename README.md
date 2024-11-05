@@ -6,12 +6,11 @@ I'm **Florin Pinta** (aka **xttrust**), a passionate Junior Full-Stack Software 
 ### 🔭 Finished Projects for real clients.
 - **[RequestSheet.com](https://requestsheet.com/)**: A platform for dj's to interact with audience. Alowing them to get tipps, requests and many more, all that on live shows.
 - **[OriginalImobiliare.ro](https://originalimobiliare.ro/)**: A comprehensive real estate agency portal tailored for a Romanian company. This project is my most complete creation with a powerfull back-end for admins.
-- **[BestOfComponents.com](https://bestofcomponents.com/)**: A product review website created in order to learn CodeIgniter4. This project is a full fledged CMS with a powerfull back-end.
 - **[Mp3-Script.com](https://www.mp3-script.com/)**: A presentation website for a PHP Script that I have created to learn CodeIgniter3. This project features API's like: youtube and stripe, also powerfull back-end for both
  mp3-script website and the actual mp3 script v7.
 
 ### 🔭 Current Projects
-
+- **[BestOfComponents.com](https://bestofcomponents.com/)**: A product review website created in order to learn CodeIgniter4. This project is a full fledged CMS with a powerfull back-end.
 - **[Django Starter](https://github.com/xttrust/django-starter)**: A quick-start template with `django-allauth`, SEO-ready templates, Bootstrap 5, and jQuery.
 - **[Docker Django Starter](https://github.com/xttrust/docker-django)**: A production-ready Django template with Docker, designed to streamline deployment and environment management.
 
