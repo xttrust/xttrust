@@ -11,8 +11,6 @@ I'm **Florin Pinta** (aka **xttrust**), a passionate Junior Full-Stack Software 
 
 ### 🔭 Current Projects
 - **[BestOfComponents.com](https://bestofcomponents.com/)**: A product review website created in order to learn CodeIgniter4. This project is a full fledged CMS with a powerfull back-end.
-- **[Django Starter](https://github.com/xttrust/django-starter)**: A quick-start template with `django-allauth`, SEO-ready templates, Bootstrap 5, and jQuery.
-- **[Docker Django Starter](https://github.com/xttrust/docker-django)**: A production-ready Django template with Docker, designed to streamline deployment and environment management.
 
 ### 🔭 CodeInstitute.net Projects
 - **[Explore Romania](https://github.com/xttrust/explore-romania)**: A website that offers insights into Romania's history, culture, rich cuisine, and top attractions. SEO-ready, HTML and CSS
