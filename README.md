@@ -12,7 +12,9 @@ I'm **Florin Pinta** (aka **xttrust**), a passionate Junior Full-Stack Software 
 ### 🔭 Current Projects
 - **[BestOfComponents.com](https://bestofcomponents.com/)**: A product review website created in order to learn CodeIgniter4. This project is a full fledged CMS with a powerfull back-end.
 
-### 🔭 CodeInstitute.net Projects (1 Year of learning. Starting from scratch, these projects got me a **MERIT** for each one of them.)
+### 🔭 CodeInstitute.net Projects  
+*(One Year of Intensive Learning: Awarded **MERIT** for Every Project)*
+
 - **[Explore Romania](https://github.com/xttrust/explore-romania)**: A website that offers insights into Romania's history, culture, rich cuisine, and top attractions. SEO-ready, HTML and CSS
 - **[Tech-Master-Quiz](https://github.com/xttrust/Tech-Master-Quiz)**: A game, to challenge for tech fans! HTML, CSS, Javascript
 - **[Simple Battleships](https://github.com/xttrust/simple-battleships)**: A command-line implementation of the classic Battleship game built using Python.
