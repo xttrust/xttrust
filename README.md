@@ -15,12 +15,24 @@ I'm **Florin Pinta** (aka **xttrust**), a passionate Junior Full-Stack Software 
 ### 🔭 CodeInstitute.net Projects  
 *(One Year of Intensive Learning: Awarded **MERIT** for Every Project)*
 
-- **[Explore Romania](https://github.com/xttrust/explore-romania)**: A website that offers insights into Romania's history, culture, rich cuisine, and top attractions. SEO-ready, HTML and CSS
-- **[Tech-Master-Quiz](https://github.com/xttrust/Tech-Master-Quiz)**: A game, to challenge for tech fans! HTML, CSS, Javascript
-- **[Simple Battleships](https://github.com/xttrust/simple-battleships)**: A command-line implementation of the classic Battleship game built using Python.
-- **[Book My Table](https://github.com/xttrust/BookMyTable)**: A comprehensive restaurant booking system. HTML, CSS, Javascript, Python, Django, API's ...
-- **[xttrust Custom Merch](https://github.com/xttrust/xttrust-custom-merch)**: My own merch e-commerce website. HTML, CSS, Javascript, Python, Django, API's ...
-- **[HolyRecipes](https://github.com/xttrust/HolyRecipes)**: Winner of second place in CodeInstitute.net Secret Santa Hackathon in December 2023. Scrum Master
+- **[Explore Romania](https://github.com/xttrust/explore-romania)**:  
+  A beautifully designed website offering insights into Romania's rich history, culture, cuisine, and top attractions. Built with a focus on SEO, using **HTML** and **CSS** to ensure optimal visibility and performance.
+
+- **[Tech-Master-Quiz](https://github.com/xttrust/Tech-Master-Quiz)**:  
+  An interactive game designed to challenge tech enthusiasts. Developed using **HTML**, **CSS**, and **JavaScript**, featuring dynamic question handling and score tracking.
+
+- **[Simple Battleships](https://github.com/xttrust/simple-battleships)**:  
+  A command-line adaptation of the classic Battleship game, showcasing problem-solving skills and logical structuring through **Python**.
+
+- **[Book My Table](https://github.com/xttrust/BookMyTable)**:  
+  A comprehensive restaurant reservation system with real-time booking capabilities. Built using **HTML**, **CSS**, **JavaScript**, **Python**, **Django**, and integrated with external **APIs** to enhance functionality.
+
+- **[xttrust Custom Merch](https://github.com/xttrust/xttrust-custom-merch)**:  
+  A personalized e-commerce platform for selling custom merchandise. Developed with a robust backend using **Django** and **Python**, complemented by a responsive frontend with **HTML**, **CSS**, and **JavaScript**.
+
+- **[HolyRecipes](https://github.com/xttrust/HolyRecipes)**:  
+  A collaborative project, recognized with second place in CodeInstitute.net's Secret Santa Hackathon (December 2023). Led as **Scrum Master**, the project highlights teamwork, agile practices, and effective use of **Django**, **Python**, and frontend technologies.
+
 
 ### 🌱 Currently Learning
 
