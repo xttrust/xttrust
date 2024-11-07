@@ -62,7 +62,7 @@ I'm **Florin Pinta** (aka **xttrust**), a passionate Junior Full-Stack Software 
 ### 📫 How to Reach Me
 
 - **LinkedIn**: [Florin Pinta](https://www.linkedin.com/in/florin-pinta-39984aa7/)
-- **Website**: [xttrust.creativeigniter.com](https://xttrust.creativeigniter.com/) - working on it
+- **Website**: [xttrust.creativeigniter.com](https://xttrust.creativeigniter.com/)
 - **Email**: xttrust@creativeigniter.com
 
 ### ⚡ Fun Facts
