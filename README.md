@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Florin Pinta** (aka **xttrust**), a passionate Junior Full-Stack Software Developer with a knack for building web applications that solve real-world problems. From PHP to Django, Docker, and beyond, I’m driven by a continuous desire to learn, improve, and innovate. 
+I'm **Florin Pinta** (aka **xttrust**), a passionate Full-Stack Software Developer with a knack for building web applications that solve real-world problems. From PHP to Django, Docker, and beyond, I’m driven by a continuous desire to learn, improve, and innovate. 
 
 ---
 ### 🔭 Finished Projects for real clients.
