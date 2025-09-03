@@ -4,6 +4,8 @@ I'm **Florin Pinta** (aka **xttrust**), a passionate Full-Stack Software Develop
 
 ---
 ### 🔭 Finished Projects for real clients.
+- **[Contrasts Records](https://contrasts-records.com/)**: A platform for a record label to manage artists, shows, and releases, built to be clean, professional, and simple to update through a custom admin dashboard.
+- **[vintageandmorelli.com/](https://vintageandmorelli.com/)**: A platform that showcases his music, events, and artist profile in a way that is fast, professional, and easy to update.
 - **[RequestSheet.com](https://requestsheet.com/)**: A platform for dj's to interact with audience. Alowing them to get tipps, requests and many more, all that on live shows.
 - **[OriginalImobiliare.ro](https://originalimobiliare.ro/)**: A comprehensive real estate agency portal tailored for a Romanian company. This project is my most complete creation with a powerfull back-end for admins.
 - **[Mp3-Script.com](https://www.mp3-script.com/)**: A presentation website for a PHP Script that I have created to learn CodeIgniter3. This project features API's like: youtube and stripe, also powerfull back-end for both
