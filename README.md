@@ -4,6 +4,8 @@ I'm **Florin Pinta**, a passionate Full-Stack Software Developer with a knack fo
 
 ---
 ### 🔭 Finished Projects for real clients.
+- **[West Clean Property Care](https://westcleanpropertycare.ie/)**: A professional services website for a property cleaning and maintenance company based in the west of Ireland. Clean, fast, and mobile-first design with a strong local SEO focus to drive enquiries from homeowners and landlords in the region.
+- **[Mikes Gardening](https://mikesgardening.ie/)**: A local gardening and landscaping services website built for a sole trader in Ireland. Clear service presentation, contact-driven layout, and mobile-optimised design to convert local search visitors into enquiries.
 - **[Contrasts Records](https://contrasts-records.com/)**: A platform for a record label to manage artists, shows, and releases, built to be clean, professional, and simple to update through a custom admin dashboard.
 - **[vintageandmorelli.com/](https://vintageandmorelli.com/)**: A platform that showcases his music, events, and artist profile in a way that is fast, professional, and easy to update.
 - **[RequestSheet.com](https://requestsheet.com/)**: A platform for dj's to interact with audience. Alowing them to get tipps, requests and many more, all that on live shows.
