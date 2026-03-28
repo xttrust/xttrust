@@ -66,8 +66,8 @@ I'm **Florin Pinta**, a passionate Full-Stack Software Developer with a knack fo
 ### 📫 How to Reach Me
 
 - **LinkedIn**: [Florin Pinta](https://www.linkedin.com/in/xttrust/)
-- **Website**: [xttrust.creativeigniter.com](https://xttrust.creativeigniter.com/)
-- **Email**: xttrust@creativeigniter.com
+- **Website**: [creativeigniter.com](https://creativeigniter.com/)
+- **Email**: florin@creativeigniter.com
 
 ### ⚡ Fun Facts
 
